@@ -1,3 +1,2 @@
 This is feature 2.
 Adding soem code
-Modifying feature 2
